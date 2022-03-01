@@ -11,6 +11,8 @@ Three folders:
 
 - "dataset": folder of the computational instances used in the paper
 	- "MaxMonoSub_Car.zip": instances of the expected utility maximization problem with cardinality constraints; its computational results are reported in Table 1.
+  - "MaxMonoSub_PM.zip": instances of the expected utility maximization problem with multiple cardinality constraints; its computational results are reported in Table 2.
+  - "MaxNonMonSub.zip": instances of the non-monotonic submodular function maximization problem with multiple cardinality constraints; its computational results are reported in Table 3.
 	
 - "results": the detailed computational results for each computational instances used in the paper
 
